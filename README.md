@@ -1,5 +1,5 @@
 # AirCnc
-O AirCnc é um projeto realizado na semana omnistack 9 pela rocketseat, no qual foi desenvolvido uma aplicação web e mobile baseado no famoso airBnb. O intuito da aplicação é cadastrar empresas e serem divulgadas para busca baseadas nas tencologias que elas utilizam.
+O **AirCnc** é um projeto realizado na semana omnistack 9 pela rocketseat, no qual foi desenvolvido uma aplicação web e mobile baseado no famoso airBnb. O intuito da aplicação é cadastrar empresas e serem divulgadas para busca baseadas nas tencologias que elas utilizam.
 
 
 
